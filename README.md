@@ -16,6 +16,17 @@ This repo can be used to scaffold a Laravel package. Follow these steps to get s
 <!--/delete-->
 This is where your description should go. Limit it to a paragraph or two. Consider adding a small example.
 
+Laravel package to setup Whisp
+
+Goal:
+
+Config file for port & apps -> artisan commands
+./artisan whisp runs the server
+./artisan whisp:restart restarts the server
+Runs the artisan commands properly 🤔 hmmm
+
+
+
 ## Support us
 
 [<img src="https://github-ads.s3.eu-central-1.amazonaws.com/:package_name.jpg?t=1" width="419px" />](https://spatie.be/github-ad-click/:package_name)
